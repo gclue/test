@@ -11,5 +11,6 @@ public class TestaActivity extends Activity {
         setContentView(R.layout.main);
         // test
         // abc
+        // aaaaaaaaaaaa
     }
 }
