@@ -10,5 +10,6 @@ public class TestaActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         // test
+        // abc
     }
 }
