@@ -17,8 +17,6 @@ public class TestaActivity extends Activity {
         
         // abc
         
-        // no1
-        
         //noooooooo
     }
 }
