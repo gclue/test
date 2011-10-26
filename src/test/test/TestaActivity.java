@@ -13,7 +13,8 @@ public class TestaActivity extends Activity {
         // abc
         // aaaaaaaaaaaa
 		
-		//aaeeeeehhhhhhhhhhhhhbbaaaaaaaaaa
+		//aaeeeeehhhhhhhhhhhaa
+        
         // テストのテスト
         // あああ
         
