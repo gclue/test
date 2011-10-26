@@ -15,5 +15,7 @@ public class TestaActivity extends Activity {
 		
 		//aaeeeeehhhhhhhhhhhaa
         
+        // テストのテスト
+        
     }
 }
