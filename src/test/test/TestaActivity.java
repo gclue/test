@@ -15,8 +15,9 @@ public class TestaActivity extends Activity {
 		
 		//aaeeeeehhhhhhhhhhhaa
         
-        // ƒeƒXƒg‚ÌƒeƒXƒg
-        // ‚ ‚ ‚ ‚ 
+        // ï¿½eï¿½Xï¿½gï¿½Ìƒeï¿½Xï¿½g
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+        // abc
         
     }
 }
